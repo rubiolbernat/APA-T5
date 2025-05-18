@@ -1,6 +1,6 @@
 # Sonido estéreo y ficheros WAVE
 
-## Nom i cognoms
+## Nom i cognoms Bernat Rubiol
 
 ## El formato WAVE
 
@@ -189,13 +189,21 @@ para que se realice el realce sintáctico en Python del mismo (no vale insertar 
 pantalla, debe hacerse en formato *markdown*).
 
 ##### Código de `estereo2mono()`
+```py
 
+```
 ##### Código de `mono2estereo()`
+```py
 
+```
 ##### Código de `codEstereo()`
+```py
 
+```
 ##### Código de `decEstereo()`
+```py
 
+```
 #### Subida del resultado al repositorio GitHub y *pull-request*
 
 La entrega se formalizará mediante *pull request* al repositorio de la tarea.
